@@ -99,7 +99,6 @@ int main(){
     printf("População: %d\n", populacao_2); // Número inteiro
     printf("Área: %.2fkm²\n", area_km2_2);  // 2 casas decimais
     printf("PIB: %.2f\n", pib_2);  // 2 casas decimais
-    printf("PIB Per Capta: %.2f reais\n", pib_2/populacao_2); // PIB dividido pela população.
 
    return 0;
 }
